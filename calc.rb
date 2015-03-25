@@ -1,3 +1,4 @@
+puts "Lets calculate some numbers"
 begin
 	puts "Please enter your first number."
 	a = gets.chomp
